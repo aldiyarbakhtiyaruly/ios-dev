@@ -4,3 +4,8 @@ xcuserdata/
 DerivedData/
 build/
 .swiftpm/
+
+# MusicPlayer
+MusicPlayer/**/*.mp3
+MusicPlayer/**/xcuserdata/
+MusicPlayer/**/.DS_Store
